@@ -1,4 +1,4 @@
-# SRG093XW EVK Linux 开发指南
+# SRG093XW EVK 开发指南
 
  [![Document Version](https://img.shields.io/badge/docs-v1.0.1-blue)]() [![Status](https://img.shields.io/badge/status-stable-green)]() [![Platform](https://img.shields.io/badge/platform-Linux-orange)]() 
 
